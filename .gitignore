@@ -6,3 +6,4 @@ aws.env/us-east/.terraform/
 ignore*
 nomad.token
 *.pem
+terraform.tfvars
